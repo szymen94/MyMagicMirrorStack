@@ -1,7 +1,7 @@
 # My list of modules which I want to install in MagicMirror (without personal data)
 
-- ❌ MMM-Remote-Control - https://github.com/Jopyth/MMM-Remote-Control/tree/master
 - ❌ MMM-Trello - https://github.com/Jopyth/MMM-Trello
+- ❌ MMM-Remote-Control - https://github.com/Jopyth/MMM-Remote-Control/tree/master
 - ❌ mmpm - https://github.com/Bee-Mar/MMM-mmpm?tab=readme-ov-file
 - ❌ MMM-Screencast - https://github.com/kevinatown/MMM-Screencast 
 - ❌ MMM-Todoist - https://github.com/cbrooker/MMM-Todoist
