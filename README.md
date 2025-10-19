@@ -1,19 +1,19 @@
 # My list of modules which I want to install in MagicMirror (without personal data)
 
-## ❌ MMM-Remote-Control - https://github.com/Jopyth/MMM-Remote-Control/tree/master
-## ❌ MMM-Trello - https://github.com/Jopyth/MMM-Trello
-## ❌ mmpm - https://github.com/Bee-Mar/MMM-mmpm?tab=readme-ov-file
-## ❌ MMM-Screencast - https://github.com/kevinatown/MMM-Screencast 
-## ❌ MMM-Todoist - https://github.com/cbrooker/MMM-Todoist
-## ❌ MMM-Traffic - https://github.com/saml-dev/MMM-Traffic
-## ❌ MMM-pages - https://github.com/edward-shen/MMM-pages
-## ❌ MMM-ModuleScheduler - https://github.com/ianperrin/MMM-ModuleScheduler
-## ❌ WallberryTheme - https://github.com/delightedCrow/WallberryTheme
-## ❌ MMM-GoogleCalendar - https://github.com/randomBrainstormer/MMM-GoogleCalendar
-## ❌ MMM-GoogleTrafficTimes - https://github.com/pjestico/MMM-GoogleTrafficTimes
-## ❌ MMM-AVStock - https://github.com/lavolp3/MMM-AVStock
-## ❌ MMM-CommandToNotification - https://github.com/Tom-Hirschberger/MMM-Notification-To-Command
-## ❌ MMM‑iFrame - https://github.com/alberttwong/MMM-iFrame
+❌ MMM-Remote-Control - https://github.com/Jopyth/MMM-Remote-Control/tree/master
+❌ MMM-Trello - https://github.com/Jopyth/MMM-Trello
+❌ mmpm - https://github.com/Bee-Mar/MMM-mmpm?tab=readme-ov-file
+❌ MMM-Screencast - https://github.com/kevinatown/MMM-Screencast 
+❌ MMM-Todoist - https://github.com/cbrooker/MMM-Todoist
+❌ MMM-Traffic - https://github.com/saml-dev/MMM-Traffic
+❌ MMM-pages - https://github.com/edward-shen/MMM-pages
+❌ MMM-ModuleScheduler - https://github.com/ianperrin/MMM-ModuleScheduler
+❌ WallberryTheme - https://github.com/delightedCrow/WallberryTheme
+❌ MMM-GoogleCalendar - https://github.com/randomBrainstormer/MMM-GoogleCalendar
+❌ MMM-GoogleTrafficTimes - https://github.com/pjestico/MMM-GoogleTrafficTimes
+❌ MMM-AVStock - https://github.com/lavolp3/MMM-AVStock
+❌ MMM-CommandToNotification - https://github.com/Tom-Hirschberger/MMM-Notification-To-Command
+❌ MMM‑iFrame - https://github.com/alberttwong/MMM-iFrame
 
 
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
