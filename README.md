@@ -1,4 +1,4 @@
-#My list of modules which I want to install in MagicMirror (without personal data)
+# My list of modules which I want to install in MagicMirror (without personal data)
 
 ## ❌ MMM-Remote-Control - https://github.com/Jopyth/MMM-Remote-Control/tree/master
 ## ❌ MMM-Trello - https://github.com/Jopyth/MMM-Trello
